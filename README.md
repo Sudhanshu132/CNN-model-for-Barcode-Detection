@@ -13,6 +13,7 @@ This Repo contains pre-trained CNN model for Barcode Detection Using Python, Ten
 
 # Protocols
 
-# Run Following python file to train the model
-
-# Run following python file to detect barcode
+# Run Following python file in terminal to train the model
+Python train.py
+# Run following python file in terminal to detect barcode
+Python detect_model.py

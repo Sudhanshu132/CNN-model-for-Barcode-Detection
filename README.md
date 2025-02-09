@@ -1,5 +1,6 @@
 # CNN-model-for-Barcode-Detection
-This Repo contains pre-trained CNN model for Barcode Detection Using Python, TensorFlow, Pyzbar,Keras,OpenCV
+This Repo contains pre-trained CNN model for Barcode Detection Using Python, TensorFlow, Pyzbar,Keras,OpenCV,Tensorflowlite
+
 
 # Pre-requisites 
 1) Python version==2.10 +
